@@ -8,6 +8,7 @@ int main()
 		for (int j = 1; j < 10; j++)
 		{
 			cout << i << " * " << j << endl;
+                        cout << "HelloWorld" << endl;
 		}
 	}
 	return 0;
